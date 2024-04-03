@@ -1,3 +1,2 @@
 # Exploring Factors Contributing to Road Accidents in Israel: A Clustering Study
-## Summary
 The purpose of this project is to utilize advanced clustering techniques to comprehensively understand the factors contributing to road accidents, particularly those with severe consequences. By analyzing parameters such as accident severity, weather conditions, and road state, the project aims to identify high-risk areas and inform authorities to implement targeted safety measures, ultimately reducing the occurrence of road accidents and improving overall road safety.
